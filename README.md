@@ -9,11 +9,10 @@ Developed a Brain MRI Tumor Detection system.
  Using EfficientNet B3 Pretrained Model.(Fine Tunning)
 
 # Our  Goal 
-
- Automatically detects the presence of a tumor in a brain MRI image.
+  Automatically detects the presence of a tumor in a brain MRI image.
   It is trained over 4 classes like ,
   Glioma Tumor  , Meningioma Tumor ,  Pituitary Tumor , No Tumor.
-  This model will detect  whch type of tumor the person  has.
+  This model will detect  which type of Tumor the person  has.
   if there is no tumor it will  tell that No Tumor has been detected.
  
 # Model Accuracy : 
@@ -28,14 +27,14 @@ Developed a Brain MRI Tumor Detection system.
 # How to do Prediction.
 
  1. Clone My repo into your Local  Machine and 
-    by using local ide ( use jupiter notebook ) 
+    by using local ide use (jupiter notebook ) 
     it will save u to install extra dependencies. 
    
  2. Download my trained model "best_model.keras"
    using upper google drive link and save model into your
    local folder (project folder)
 
- 3. Go into your local ide (uplaod "best_model.keras")
+ 3. Go into your local ide uplaod ("best_model.keras")
     also uplaod the test image which u wants to predcit.
     take test imsges into my given upper link .
    
