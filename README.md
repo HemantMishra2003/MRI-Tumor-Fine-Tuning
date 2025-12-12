@@ -38,7 +38,7 @@ Developed a Brain MRI Tumor Detection system.
     also uplaod the test image which u wants to predcit.
     take test imsges into my given upper link .
    
-# write Code :
+# Write Code :
      from tensorflow.keras.models import load_model
      import cv2
      import numpy as np
