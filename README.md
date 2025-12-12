@@ -8,7 +8,9 @@ https://github.com/user-attachments/assets/7c989810-9640-4a97-8a2d-03d24799018d
 
 # About My Project 
 Developed a Brain MRI Tumor Detection system.
- Using EfficientNet B3 Pretrained Model.(Fine Tuning)
+Using EfficientNet B3 Pretrained Model.(Fine Tuning)
+trained this model over 3k 
+training images.
 
 # Our  Goal 
   Automatically detects the presence of a tumor in a brain MRI image.
