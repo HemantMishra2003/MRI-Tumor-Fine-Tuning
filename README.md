@@ -10,7 +10,8 @@ Using EfficientNet B3 Pretrained Model.(Fine Tunning)
 
 # Our  Goal 
 Automatically detects the presence of a tumor in a brain MRI image.
-it is trained over 4 classes..
+it is trained over 4 classes.
+
 Glioma Tumor  , Meningioma Tumor ,  Pituitary Tumor , No Tumor.
 This model will detect  whch type of tumor the person  has.
 if there is no tumor it will  tell that No Tumor has been detected.
