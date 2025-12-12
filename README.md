@@ -1,9 +1,9 @@
 https://github.com/user-attachments/assets/7c989810-9640-4a97-8a2d-03d24799018d
 
-# Downlaod Dataset
+# My Dataset
 << https://zenodo.org/records/12735702
 
-# Downlaod Our saved best model
+# My saved best model
 << https://drive.google.com/file/d/1-yq1hIik4DdBhR0sjxLZPFNdtKz4xkTQ/view?usp=drivesdk
 
 # About My Project 
